@@ -15,12 +15,12 @@ video: Chapter 2 - Part 3
  
  
  1) Write down the names of all of the primitives available in C++ (excluding wchar_t) here: 
-      Integer int
- 	    Character char
- 	    Boolean bool
- 	    Floating Point float
- 	    Double Floating Point double
-      Void void
+    Integer int
+    Character char
+    Boolean bool
+    Floating Point float
+    Double Floating Point double
+    Void void
 
 2) for each primitive type, write out 3 variable declarations inside the variableDeclaration() function on line 59.
     a) give each variable declaration an initial value
